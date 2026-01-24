@@ -7,6 +7,6 @@ I'm Surafel, a self-taught web developer in progress.
 - 👯 I’m looking to collaborate on beginner-friendly and open-source web projects  
 - 🤔 I’m looking for help with best practices in web development  
 - 💬 Ask me about HTML, CSS, JavaScript, or learning web development as a self-taught developer  
-- 📫 How to reach me: *(add your email or social links here)*  
+- 📫 How to reach me: 👉 https://www.instagram.com/surafeltad19/ 
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I enjoy turning ideas into real websites
