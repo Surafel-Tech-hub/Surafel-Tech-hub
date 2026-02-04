@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm Surafel, a self-taught web developer in progress.
-
+I am surafel.
 - 🔭 I’m currently working on improving my skills to build professional websites  
 - 🌱 I’m currently learning **HTML, CSS, and JavaScript**  
 - 👯 I’m looking to collaborate on beginner-friendly and open-source web projects  
